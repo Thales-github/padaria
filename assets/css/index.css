@@ -1,0 +1,53 @@
+*{
+    font-family: tahoma;
+    line-height: 30px;
+    font-size: 22px;
+}
+.textoEmNegrito{
+    font-size: 30px;
+}
+body{
+    text-align: center;
+}
+img, .secao3{
+    border-radius: 20px;
+}
+.textoLaranja{color: rgba(255, 166, 0, 0.788);}
+.secao1 hr{
+    margin-top: 30px;
+    width: 50%;
+    
+    border: 0.5px solid rgba(255, 166, 0, 0.788);
+}
+.secao1 img{
+    width: 200px;
+    height: 250px;
+}
+.secao1 ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+.secao1 ul li a{
+    text-decoration: none;
+    margin-right: 15px;
+}
+/*-------------------------------*/
+.secao2 img{
+    width: 50%;
+}
+/*------------------------------*/
+.secao3{
+    background-color: rgba(255, 166, 0, 0.788);
+    width: 50%;
+    margin: 0 auto 0 auto;
+    color: white;
+}
+.secao3 img{
+    width: 50%;
+}
+.secao3{
+    padding: 30px 0 30px 0;
+    margin-top: 20px;
+}
